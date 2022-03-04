@@ -1,2 +1,2 @@
 # KinoBot
-Search for movies, series and premieres
+Поиск фильмов, сериалов и премьер.
